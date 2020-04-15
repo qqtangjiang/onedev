@@ -3,3 +3,4 @@ In case we forget to mention fixed issues when commit the change, edit and commi
 issue #34
 issue #48 
 issue #55
+issue #99
